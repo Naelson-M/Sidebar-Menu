@@ -1,2 +1,2 @@
 # Sidebar-Menu
- ## criando um menu de barra lateal oculto
+ ## criando um menu de barra lateral oculto
